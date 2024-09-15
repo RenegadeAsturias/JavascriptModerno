@@ -66,7 +66,7 @@ C:\Users\Asturias\Desktop\js-vite>
 echo "# JavascriptModerno" >> README.md
 git init
 git add README.md
-git commit -m "first commit"
+git commit -m "Curso JavaScript Moderno"
 git branch -M main
 git remote add origin https://github.com/RenegadeAsturias/JavascriptModerno.git
 git push -u origin main
