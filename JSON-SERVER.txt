@@ -14,7 +14,7 @@ Añadir el package.json un nuevo script:
 }
 
 
-ARRANCAR SERVER________________:
+ARRANCAR SERVER:
 Para ejecutar el script: npm run server
 
 Con el servidor corriendo podemos acceder a los usuarios cargados en el fichero: db.json
