@@ -59,10 +59,11 @@ C:\Users\Asturias\Desktop\js-vite>
 
 
 *****************************************************************
-
 C:\Users\Asturias\Desktop\js-vite>npm create vite
 √ Project name: ... 02-js-vite-promises 
 
+C:\Users\Asturias\Desktop\js-vite>npm create vite
+√ Project name: ... 03-js-vite-promise-race
 
 ******************** Git+GitHub ******************************************************
 
