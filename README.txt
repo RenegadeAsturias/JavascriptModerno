@@ -65,7 +65,7 @@ C:\Users\Asturias\Desktop\js-vite>npm create vite
 C:\Users\Asturias\Desktop\js-vite>npm create vite
 √ Project name: ... 03-js-vite-promise-race
 
-******************** Git+GitHub ******************************************************
+******************** Git+GitHub *********************************
 
 …or create a new repository on the command line
 
