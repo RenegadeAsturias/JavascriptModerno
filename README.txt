@@ -58,7 +58,7 @@ Done. Now run:
 C:\Users\Asturias\Desktop\js-vite>
 
 
-*****************************************************************
+******************************************************************
 C:\Users\Asturias\Desktop\js-vite>npm create vite
 √ Project name: ... 02-js-vite-promises 
 
@@ -68,7 +68,7 @@ C:\Users\Asturias\Desktop\js-vite>npm create vite
 C:\Users\Asturias\Desktop\js-vite> npm create vite
 √ Project name: ... 04-js-vite-async
 
-******************** Git+GitHub *********************************
+******************** Git+GitHub **********************************
 
 …or create a new repository on the command line
 
