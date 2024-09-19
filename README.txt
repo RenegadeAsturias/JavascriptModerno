@@ -64,7 +64,7 @@ C:\Users\Asturias\Desktop\js-vite>npm create vite
 √ Project name: ... 03-js-vite-promise-race
 √ Project name: ... 04-js-vite-async
 √ Project name: ... 05-js-vite-async-await
-V Project name: ... 06-js-vite-async-await
+V Project name: ... 06-js-vite-async-await (Use Promise.all)
 
 ******************** Git+GitHub ***********************************
 
